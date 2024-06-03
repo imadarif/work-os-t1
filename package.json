@@ -28,5 +28,9 @@
     "relative-deps": "^1.0.7",
     "typescript": "^5"
   },
+  "engines": {
+    "npm": ">=10.7.0",
+    "node": ">=18.17.0"
+  },
   "relativeDependencies": {}
 }
